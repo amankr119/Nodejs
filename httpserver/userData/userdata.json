@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Aman kumar",
+        "username": "aman.kr",
+        "email": "amankumargupta@gmail.com",
+        "address": {
+            "street": "manjhauli",
+            "locality": "jarhi chwdk",
+            "zipcode": 822122,
+            "city": "DTO"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Akash kumar",
+        "username": "akash.kr",
+        "email": "akashkumar@gmail.com",
+        "address": {
+            "street": "melatar",
+            "locality": "satbrwa",
+            "zipcode": 822123,
+            "city": "DTO"
+        }
+    }
+]
